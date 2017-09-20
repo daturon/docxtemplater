@@ -72,10 +72,10 @@ DocUtils.str2xml = function (str, errorHandler) {
 };
 
 DocUtils.charMap = {
-	"&": "&amp;",
+	// "&": "&amp;",
 	"'": "&apos;",
-	"<": "&lt;",
-	">": "&gt;",
+	// "<": "&lt;",
+	// ">": "&gt;",
 	'"': "&quot;",
 };
 
